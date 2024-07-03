@@ -3,5 +3,5 @@ This repository contains the code for the Multiple Disease Prediction System, a 
 
 ## Web Application
 
-You can access the live web application here: [Multiple Disease Prediction System](https://webappmultiplediseaseprediction.streamlit.app/)
+You can access the live web application here: [Multiple Disease Prediction Application](https://webappmultiplediseaseprediction.streamlit.app/)
 
