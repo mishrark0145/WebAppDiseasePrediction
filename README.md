@@ -1,5 +1,5 @@
 # Multiple Disease Prediction Application WebApp
 This repository contains the code for the Multiple Disease Prediction System, a web application developed using Streamlit. This application uses machine learning models to predict the likelihood of multiple diseases based on user input.
 ```bash
-You can access the live web application here: Multiple Disease Prediction System
+You can access the live web application here: [Multiple Disease Prediction System](https://webappmultiplediseaseprediction.streamlit.app/)
 ```
